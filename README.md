@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Lishuang996
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Java
+- 👋 Hi, I’m Li Shuang
+- 👀 I’m interested in C/C++
+- 🌱 I’m currently learning C/C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
